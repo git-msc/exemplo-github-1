@@ -1,2 +1,2 @@
 # Atividade de Avaliação 5
-Exemplo de uso do GitHub
+Formatar um arquivo README.md usando os elementos principais de uma página do GitHub.
