@@ -20,8 +20,8 @@ Quer baixar esta imagem bacana? Clique [aqui](https://sempreupdate.com.br/wp-con
 
 ## Liha de Código
 
-### \\\Javascript
-```Javascript
+```JavaScript
+//JavaScript
 var n = 9;
 var x = n*n;
 document.write ("Result of n*n=" + x);
